@@ -1,2 +1,2 @@
 # .github
-Astralix Labs organization profile
+Falux organization profile
