@@ -1,94 +1,118 @@
+# 🚀 FALUX
+
 <div align="center">
 
-# 🚀 Astralix Labs
-
-<img src="logo.png" alt="Astralix Labs Logo" width="220"/>
+# FALUX
 
 ### Think Better. Build Smarter.
 
-Building intelligent software, browser extensions and digital experiences.
+**Engineering intelligent software solutions.**
+
+Building technology that transforms complex problems into simple, elegant and effective solutions.
 
 ---
 
 </div>
 
-## 🌌 About Us
+# 🧠 About Us
 
-Astralix Labs is a software engineering studio focused on building intelligent digital products that solve real-world problems.
+Falux is a software engineering company focused on creating intelligent digital solutions.
 
-We believe technology should be simple, elegant and genuinely useful. Every product we create is designed to improve productivity, enhance user experience and deliver meaningful innovation.
+We believe great software is not born from writing more code, but from understanding problems deeply before building solutions.
 
-Our mission is not simply to write software.
+Our mission is to combine engineering, intelligence and creativity to develop software that is efficient, elegant and meaningful.
 
-Our mission is to create technology people genuinely enjoy using.
+Every product we create is designed with one goal:
 
----
-
-## 🎯 Mission
-
-Build intelligent software that transforms everyday challenges into simple and innovative solutions.
+> **Think better. Build smarter.**
 
 ---
 
-## 🔭 Vision
+# 🎯 Mission
 
-To become a globally recognized technology company known for creating high-quality software, browser extensions, AI-powered tools and digital experiences.
-
----
-
-## 💙 Our Values
-
-- Innovation with purpose
-- Simplicity over complexity
-- Quality first
-- User-centered design
-- Privacy by design
-- Continuous improvement
+Transform complex challenges into intelligent software solutions that improve people's lives and businesses.
 
 ---
 
-## 🚀 Current Projects
+# 🌍 Vision
 
-- 🌐 Browser Extensions
-- 🤖 AI Productivity Tools
+Become a globally recognized software company known for intelligence, quality and purposeful engineering.
+
+---
+
+# 💜 Our Values
+
+- 🧠 Intelligence before technology
+- 💡 Clarity before complexity
+- ⚙ Engineering with purpose
+- 🤝 Trust through quality
+- 🚀 Continuous innovation
+- 📈 Continuous improvement
+
+---
+
+# 🚀 What We Build
+
+- 🌐 Chrome Extensions
+- 🤖 Artificial Intelligence Solutions
 - 📱 Mobile Applications
 - 💻 Desktop Applications
-- 🎨 Digital Experience & Themes
+- ☁️ Cloud Solutions
+- 🎨 UI / UX Experiences
+- 📊 Business Automation
+- 🧩 Custom Software
 
 ---
 
-## 🛠 Technologies
+# 🛠 Technologies
 
 - JavaScript
 - TypeScript
 - HTML5
 - CSS3
 - Node.js
+- Python
+- C#
 - Git
 - GitHub
 - Chrome Extension API
+- REST APIs
 - Artificial Intelligence
 
 ---
 
-## 📍 Headquarters
+# 🎯 Our Philosophy
 
-São Paulo, Brazil
+We don't build software because technology exists.
+
+We build software because people have problems that deserve intelligent solutions.
+
+Technology is only the tool.
+
+Understanding is the real innovation.
 
 ---
 
-## 🤝 Join Our Journey
+# 🌎 Headquarters
 
-Astralix Labs is just getting started.
+📍 São Paulo, Brazil
 
-Follow our journey as we build software designed to make technology smarter, simpler and more useful.
+---
+
+# 🤝 Join Our Journey
+
+Falux is just getting started.
+
+Our goal is to create software that combines intelligence, engineering and exceptional user experience.
+
+Every line of code reflects our commitment to clarity, quality and innovation.
 
 ---
 
 <div align="center">
 
-### Think Better. Build Smarter.
+## Think Better. Build Smarter.
 
-Made with ❤️ by Astralix Labs.
+Made with 💜 by **Falux**
 
 </div>
